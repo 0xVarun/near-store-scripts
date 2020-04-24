@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Go Supremo Cow Milk",
+        "group": "Dairy Products",
+        "category": "Dairy Products",
+        "barcode": "8906001028444",
+        "type": "Dairy Products",
+        "company": "Parag Milk Foods",
+        "brand": "Go supremo",
+        "url": "http://64.225.112.125/images_products/temp-images/GoSupremoCowMilk.jpg",
+        "box_id": "DEMO_VIR_BOX",
+        "count": 0,
+        "price": 72.0,
+        "endpoint": "send"
+    },
+    {
+        "name": "Nestle EveryDay Dairy Whitener 400g",
+        "group": "Dairy Products",
+        "category": "Dairy Products",
+        "barcode": "8901058869408",
+        "type": "Dairy Products",
+        "company": "Nestle",
+        "brand": "Nestle",
+        "url": "http://64.225.112.125/images_products/temp-images/NestleEveryDayDairyWhitener400g.jpg",
+        "box_id": "DEMO_VIR_BOX",
+        "count": 0,
+        "price": 190.0,
+        "endpoint": "send"
+    }
+]
